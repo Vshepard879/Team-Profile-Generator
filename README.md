@@ -32,6 +32,9 @@ SO THAT I have quick access to their emails and GitHub profiles
 - WHEN I decide to finish building my team
 - THEN I exit the application, and the HTML is generated
 
+## Screenshot
+`![ScreenShot](/assets/images/screenshot.png)
+
 
 ### Learning Objectives:
 
@@ -63,3 +66,5 @@ node index.js
 
 ```sh
 npm run test
+
+
