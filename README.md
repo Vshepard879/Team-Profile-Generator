@@ -35,6 +35,9 @@ SO THAT I have quick access to their emails and GitHub profiles
 ## Screenshot
 `![ScreenShot](/assets/images/screenshot.png)
 
+## Walk Through
+https://drive.google.com/file/d/1u_6PwkWjxamjAWVQgFP6IgjlMsvTtrjG/view
+
 
 ### Learning Objectives:
 
